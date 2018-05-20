@@ -25,6 +25,7 @@
 		AD10704F20B17C7D00DE15DB /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		AD10705520B17EF000DE15DB /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		AD10705720B185F900DE15DB /* HomePageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageCollectionViewCell.swift; sourceTree = "<group>"; };
+		AD10705920B194EF00DE15DB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AD6F773320B151D200A0B0EF /* YoutubeMenuBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeMenuBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD6F773620B151D300A0B0EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD6F773820B151D300A0B0EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 		AD6F772A20B151D100A0B0EF = {
 			isa = PBXGroup;
 			children = (
+				AD10705920B194EF00DE15DB /* README.md */,
 				AD6F773520B151D200A0B0EF /* YoutubeMenuBar */,
 				AD6F773420B151D200A0B0EF /* Products */,
 			);
