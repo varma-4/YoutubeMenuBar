@@ -1,6 +1,6 @@
 #  YoutubeMenuBar
 
-This Project replicates the Menu Bar from youtube App, embedding the views in collection Views.
+This Project replicates the Menu Bar from youtube App, embedding the views in collection Views
 
 
 # Screenshots
